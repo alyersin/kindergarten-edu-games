@@ -1,0 +1,392 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ce culoare are cerul într-o zi senină?",
+      "emoji": "☀️",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🔵", "correct": true, "color": "blue" },
+        { "id": "b", "emoji": "🟢", "correct": false, "color": "green" },
+        { "id": "c", "emoji": "🔴", "correct": false, "color": "red" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ce animal spune \"Miau\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "cat",
+      "answers": [
+        { "id": "a", "emoji": "🐕", "correct": false, "color": "orange" },
+        { "id": "b", "emoji": "🐱", "correct": true, "color": "purple" },
+        { "id": "c", "emoji": "🐄", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Câte roți are o bicicletă?",
+      "emoji": "🚲",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "1️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "2️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "3️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Ce culoare are iarba?",
+      "emoji": "🌱",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟢", "correct": true, "color": "green" },
+        { "id": "b", "emoji": "🔵", "correct": false, "color": "blue" },
+        { "id": "c", "emoji": "🟡", "correct": false, "color": "yellow" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Ce animal spune \"Ham ham\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "dog",
+      "answers": [
+        { "id": "a", "emoji": "🐕", "correct": true, "color": "orange" },
+        { "id": "b", "emoji": "🐱", "correct": false, "color": "purple" },
+        { "id": "c", "emoji": "🐷", "correct": false, "color": "pink" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Câte degete are o mână?",
+      "emoji": "✋",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "4️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "5️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Ce culoare are soarele?",
+      "emoji": "☀️",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟡", "correct": true, "color": "yellow" },
+        { "id": "b", "emoji": "🔴", "correct": false, "color": "red" },
+        { "id": "c", "emoji": "🟢", "correct": false, "color": "green" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Ce animal spune \"Muu\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "cow",
+      "answers": [
+        { "id": "a", "emoji": "🐄", "correct": true, "color": "brown" },
+        { "id": "b", "emoji": "🐷", "correct": false, "color": "pink" },
+        { "id": "c", "emoji": "🐑", "correct": false, "color": "white" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Câte picioare are un câine?",
+      "emoji": "🐕",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "2️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "4️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Ce culoare are sângele?",
+      "emoji": "❤️",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🔴", "correct": true, "color": "red" },
+        { "id": "b", "emoji": "🔵", "correct": false, "color": "blue" },
+        { "id": "c", "emoji": "🟢", "correct": false, "color": "green" }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Ce animal spune \"Oink oink\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "pig",
+      "answers": [
+        { "id": "a", "emoji": "🐷", "correct": true, "color": "pink" },
+        { "id": "b", "emoji": "🐄", "correct": false, "color": "brown" },
+        { "id": "c", "emoji": "🐑", "correct": false, "color": "white" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Câte ochi are o persoană?",
+      "emoji": "👁️",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "1️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "2️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "3️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Ce culoare are banana?",
+      "emoji": "🍌",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟡", "correct": true, "color": "yellow" },
+        { "id": "b", "emoji": "🟢", "correct": false, "color": "green" },
+        { "id": "c", "emoji": "🟠", "correct": false, "color": "orange" }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Ce animal spune \"Mac Mac\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "duck",
+      "answers": [
+        { "id": "a", "emoji": "🦆", "correct": true, "color": "yellow" },
+        { "id": "b", "emoji": "🐓", "correct": false, "color": "red" },
+        { "id": "c", "emoji": "🦅", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Câte urechi are o persoană?",
+      "emoji": "👂",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "1️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "2️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "3️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Ce culoare are portocala?",
+      "emoji": "🍊",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟠", "correct": true, "color": "orange" },
+        { "id": "b", "emoji": "🔴", "correct": false, "color": "red" },
+        { "id": "c", "emoji": "🟡", "correct": false, "color": "yellow" }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Ce animal spune \"Cucurigu\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "rooster",
+      "answers": [
+        { "id": "a", "emoji": "🐓", "correct": true, "color": "red" },
+        { "id": "b", "emoji": "🦆", "correct": false, "color": "yellow" },
+        { "id": "c", "emoji": "🦅", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Câte picioare are o pisică?",
+      "emoji": "🐱",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "2️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "4️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Ce culoare au murele?",
+      "emoji": "🫐",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟣", "correct": true, "color": "purple" },
+        { "id": "b", "emoji": "🔵", "correct": false, "color": "blue" },
+        { "id": "c", "emoji": "🔴", "correct": false, "color": "red" }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Ce animal spune \"Moo\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "cow",
+      "answers": [
+        { "id": "a", "emoji": "🐄", "correct": true, "color": "brown" },
+        { "id": "b", "emoji": "🐑", "correct": false, "color": "white" },
+        { "id": "c", "emoji": "🐐", "correct": false, "color": "gray" }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Câte aripi are o pasăre?",
+      "emoji": "🐦",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "1️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "2️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "3️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Ce culoare are cerul noaptea?",
+      "emoji": "🌙",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "⚫", "correct": true, "color": "gray" },
+        { "id": "b", "emoji": "🔵", "correct": false, "color": "blue" },
+        { "id": "c", "emoji": "🟣", "correct": false, "color": "purple" }
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Ce animal spune \"Baa\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "sheep",
+      "answers": [
+        { "id": "a", "emoji": "🐑", "correct": true, "color": "white" },
+        { "id": "b", "emoji": "🐐", "correct": false, "color": "gray" },
+        { "id": "c", "emoji": "🐄", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Câte picioare are un cal?",
+      "emoji": "🐴",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "2️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "4️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Ce culoare are zăpada?",
+      "emoji": "❄️",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "⚪", "correct": true, "color": "gray" },
+        { "id": "b", "emoji": "🟡", "correct": false, "color": "yellow" },
+        { "id": "c", "emoji": "🔵", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Ce animal spune \"Mee\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "goat",
+      "answers": [
+        { "id": "a", "emoji": "🐐", "correct": true, "color": "gray" },
+        { "id": "b", "emoji": "🐑", "correct": false, "color": "white" },
+        { "id": "c", "emoji": "🐄", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Câte picioare are o vacă?",
+      "emoji": "🐄",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "2️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "4️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Ce culoare are ciocolata?",
+      "emoji": "🍫",
+      "category": "Culori",
+      "answers": [
+        { "id": "a", "emoji": "🟤", "correct": true, "color": "brown" },
+        { "id": "b", "emoji": "⚫", "correct": false, "color": "gray" },
+        { "id": "c", "emoji": "🟠", "correct": false, "color": "orange" }
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Ce animal spune \"Neigh\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "horse",
+      "answers": [
+        { "id": "a", "emoji": "🐴", "correct": true, "color": "brown" },
+        { "id": "b", "emoji": "🦓", "correct": false, "color": "black" },
+        { "id": "c", "emoji": "🦌", "correct": false, "color": "brown" }
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Ce animal spune \"Cotcodac\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "chicken",
+      "answers": [
+        { "id": "a", "emoji": "🐓", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "🐔", "correct": true, "color": "orange" },
+        { "id": "c", "emoji": "🦆", "correct": false, "color": "yellow" }
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Ce animal spune \"Ihaa\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "donkey",
+      "answers": [
+        { "id": "a", "emoji": "🐴", "correct": false, "color": "brown" },
+        { "id": "b", "emoji": "🦓", "correct": false, "color": "black" },
+        { "id": "c", "emoji": "🫏", "correct": true, "color": "gray" }
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Ce animal spune \"Honk honk\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "geese",
+      "answers": [
+        { "id": "a", "emoji": "🦆", "correct": false, "color": "yellow" },
+        { "id": "b", "emoji": "🦢", "correct": true, "color": "white" },
+        { "id": "c", "emoji": "🐔", "correct": false, "color": "orange" }
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Ce animal spune \"Gobble gobble\"?",
+      "emoji": "❓",
+      "category": "Animale",
+      "sound": "turkey",
+      "answers": [
+        { "id": "a", "emoji": "🦃", "correct": true, "color": "brown" },
+        { "id": "b", "emoji": "🐔", "correct": false, "color": "orange" },
+        { "id": "c", "emoji": "🦆", "correct": false, "color": "yellow" }
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Câte picioare are un porc?",
+      "emoji": "🐷",
+      "category": "Numere",
+      "answers": [
+        { "id": "a", "emoji": "2️⃣", "correct": false, "color": "red" },
+        { "id": "b", "emoji": "4️⃣", "correct": true, "color": "green" },
+        { "id": "c", "emoji": "6️⃣", "correct": false, "color": "blue" }
+      ]
+    }
+  ]
+}

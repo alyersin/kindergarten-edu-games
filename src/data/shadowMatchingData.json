@@ -1,0 +1,534 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Animalele Fermei",
+      "description": "Potrivește animalele cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Animalele de Bază",
+          "objects": [
+            { "id": 1, "object": "🐄", "shadow": "🐄", "name": "Vacă" },
+            { "id": 2, "object": "🐷", "shadow": "🐷", "name": "Porc" },
+            { "id": 3, "object": "🐑", "shadow": "🐑", "name": "Oaie" },
+            { "id": 4, "object": "🐓", "shadow": "🐓", "name": "Cocoș" },
+            { "id": 5, "object": "🐐", "shadow": "🐐", "name": "Capră" },
+            { "id": 6, "object": "🐎", "shadow": "🐎", "name": "Cal" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Animalele Extinse",
+          "objects": [
+            { "id": 1, "object": "🦆", "shadow": "🦆", "name": "Rață" },
+            { "id": 2, "object": "🐰", "shadow": "🐰", "name": "Iepure" },
+            { "id": 3, "object": "🐕", "shadow": "🐕", "name": "Câine" },
+            { "id": 4, "object": "🐈", "shadow": "🐈", "name": "Pisică" },
+            { "id": 5, "object": "🦃", "shadow": "🦃", "name": "Curcan" },
+            { "id": 6, "object": "🐤", "shadow": "🐤", "name": "Pui" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Animalele Fermei",
+          "objects": [
+            { "id": 1, "object": "🐄", "shadow": "🐄", "name": "Vacă" },
+            { "id": 2, "object": "🐷", "shadow": "🐷", "name": "Porc" },
+            { "id": 3, "object": "🐑", "shadow": "🐑", "name": "Oaie" },
+            { "id": 4, "object": "🐓", "shadow": "🐓", "name": "Cocoș" },
+            { "id": 5, "object": "🐐", "shadow": "🐐", "name": "Capră" },
+            { "id": 6, "object": "🐎", "shadow": "🐎", "name": "Cal" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Animalele Sălbatice",
+      "description": "Potrivește animalele sălbatice cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Mamiferele Mari",
+          "objects": [
+            { "id": 1, "object": "🦁", "shadow": "🦁", "name": "Leu" },
+            { "id": 2, "object": "🐘", "shadow": "🐘", "name": "Elefant" },
+            { "id": 3, "object": "🦒", "shadow": "🦒", "name": "Girafă" },
+            { "id": 4, "object": "🐆", "shadow": "🐆", "name": "Leopard" },
+            { "id": 5, "object": "🦓", "shadow": "🦓", "name": "Zebră" },
+            { "id": 6, "object": "🐒", "shadow": "🐒", "name": "Maimuță" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Animalele Africane",
+          "objects": [
+            { "id": 1, "object": "🐻", "shadow": "🐻", "name": "Urs" },
+            { "id": 2, "object": "🐨", "shadow": "🐨", "name": "Koala" },
+            { "id": 3, "object": "🐼", "shadow": "🐼", "name": "Panda" },
+            { "id": 4, "object": "🦊", "shadow": "🦊", "name": "Vulpe" },
+            { "id": 5, "object": "🐺", "shadow": "🐺", "name": "Lup" },
+            { "id": 6, "object": "🦌", "shadow": "🦌", "name": "Cerb" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Animalele Sălbatice",
+          "objects": [
+            { "id": 1, "object": "🦁", "shadow": "🦁", "name": "Leu" },
+            { "id": 2, "object": "🐘", "shadow": "🐘", "name": "Elefant" },
+            { "id": 3, "object": "🦒", "shadow": "🦒", "name": "Girafă" },
+            { "id": 4, "object": "🐆", "shadow": "🐆", "name": "Leopard" },
+            { "id": 5, "object": "🦓", "shadow": "🦓", "name": "Zebră" },
+            { "id": 6, "object": "🐒", "shadow": "🐒", "name": "Maimuță" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Creaturile Marine",
+      "description": "Potrivește creaturile marine cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Peștii de Bază",
+          "objects": [
+            { "id": 1, "object": "🐠", "shadow": "🐠", "name": "Pește" },
+            { "id": 2, "object": "🐙", "shadow": "🐙", "name": "Caracatiță" },
+            { "id": 3, "object": "🦈", "shadow": "🦈", "name": "Rechin" },
+            { "id": 4, "object": "🐚", "shadow": "🐚", "name": "Scoică" },
+            { "id": 5, "object": "🦀", "shadow": "🦀", "name": "Crab" },
+            { "id": 6, "object": "🐡", "shadow": "🐡", "name": "Pește balon" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Creaturile Extinse",
+          "objects": [
+            { "id": 1, "object": "🐢", "shadow": "🐢", "name": "Țestoasă" },
+            { "id": 2, "object": "🐋", "shadow": "🐋", "name": "Balena" },
+            { "id": 3, "object": "🦑", "shadow": "🦑", "name": "Calmar" },
+            { "id": 4, "object": "🦐", "shadow": "🦐", "name": "Crevetă" },
+            { "id": 5, "object": "🐚", "shadow": "🐚", "name": "Scoică" },
+            { "id": 6, "object": "🐠", "shadow": "🐠", "name": "Pește" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Creaturile Marine",
+          "objects": [
+            { "id": 1, "object": "🐠", "shadow": "🐠", "name": "Pește" },
+            { "id": 2, "object": "🐙", "shadow": "🐙", "name": "Caracatiță" },
+            { "id": 3, "object": "🦈", "shadow": "🦈", "name": "Rechin" },
+            { "id": 4, "object": "🐚", "shadow": "🐚", "name": "Scoică" },
+            { "id": 5, "object": "🦀", "shadow": "🦀", "name": "Crab" },
+            { "id": 6, "object": "🐡", "shadow": "🐡", "name": "Pește balon" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Obiectele Casei",
+      "description": "Potrivește obiectele din casă cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Mobilierul de Bază",
+          "objects": [
+            { "id": 1, "object": "🏠", "shadow": "🏠", "name": "Casă" },
+            { "id": 2, "object": "🪑", "shadow": "🪑", "name": "Scaun" },
+            { "id": 3, "object": "🛏️", "shadow": "🛏️", "name": "Pat" },
+            { "id": 4, "object": "🚪", "shadow": "🚪", "name": "Ușă" },
+            { "id": 5, "object": "🪟", "shadow": "🪟", "name": "Fereastră" },
+            { "id": 6, "object": "💡", "shadow": "💡", "name": "Bec" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Obiectele Extinse",
+          "objects": [
+            { "id": 1, "object": "🪞", "shadow": "🪞", "name": "Oglindă" },
+            { "id": 2, "object": "🪑", "shadow": "🪑", "name": "Scaun" },
+            { "id": 3, "object": "🛏️", "shadow": "🛏️", "name": "Pat" },
+            { "id": 4, "object": "🚿", "shadow": "🚿", "name": "Duș" },
+            { "id": 5, "object": "🪟", "shadow": "🪟", "name": "Fereastră" },
+            { "id": 6, "object": "💡", "shadow": "💡", "name": "Bec" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Obiectele Casei",
+          "objects": [
+            { "id": 1, "object": "🏠", "shadow": "🏠", "name": "Casă" },
+            { "id": 2, "object": "🪑", "shadow": "🪑", "name": "Scaun" },
+            { "id": 3, "object": "🛏️", "shadow": "🛏️", "name": "Pat" },
+            { "id": 4, "object": "🚪", "shadow": "🚪", "name": "Ușă" },
+            { "id": 5, "object": "🪟", "shadow": "🪟", "name": "Fereastră" },
+            { "id": 6, "object": "💡", "shadow": "💡", "name": "Bec" },
+            { "id": 7, "object": "🪞", "shadow": "🪞", "name": "Oglindă" },
+            { "id": 8, "object": "🛋️", "shadow": "🛋️", "name": "Canapea" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vehiculele",
+      "description": "Potrivește vehiculele cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Vehiculele de Bază",
+          "objects": [
+            { "id": 1, "object": "🚗", "shadow": "🚗", "name": "Mașină" },
+            { "id": 2, "object": "🚌", "shadow": "🚌", "name": "Autobuz" },
+            { "id": 3, "object": "🚚", "shadow": "🚚", "name": "Camion" },
+            { "id": 4, "object": "🚲", "shadow": "🚲", "name": "Bicicletă" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Vehiculele Extinse",
+          "objects": [
+            { "id": 1, "object": "🚗", "shadow": "🚗", "name": "Mașină" },
+            { "id": 2, "object": "🚌", "shadow": "🚌", "name": "Autobuz" },
+            { "id": 3, "object": "🚚", "shadow": "🚚", "name": "Camion" },
+            { "id": 4, "object": "🚲", "shadow": "🚲", "name": "Bicicletă" },
+            { "id": 5, "object": "✈️", "shadow": "✈️", "name": "Avion" },
+            { "id": 6, "object": "🚢", "shadow": "🚢", "name": "Vapor" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Vehiculele",
+          "objects": [
+            { "id": 1, "object": "🚗", "shadow": "🚗", "name": "Mașină" },
+            { "id": 2, "object": "🚌", "shadow": "🚌", "name": "Autobuz" },
+            { "id": 3, "object": "🚚", "shadow": "🚚", "name": "Camion" },
+            { "id": 4, "object": "🚲", "shadow": "🚲", "name": "Bicicletă" },
+            { "id": 5, "object": "✈️", "shadow": "✈️", "name": "Avion" },
+            { "id": 6, "object": "🚢", "shadow": "🚢", "name": "Vapor" },
+            { "id": 7, "object": "🚁", "shadow": "🚁", "name": "Elicopter" },
+            { "id": 8, "object": "🚂", "shadow": "🚂", "name": "Tren" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Fructele",
+      "description": "Potrivește fructele cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Fructele de Bază",
+          "objects": [
+            { "id": 1, "object": "🍎", "shadow": "🍎", "name": "Măr" },
+            { "id": 2, "object": "🍌", "shadow": "🍌", "name": "Banana" },
+            { "id": 3, "object": "🍊", "shadow": "🍊", "name": "Portocală" },
+            { "id": 4, "object": "🍇", "shadow": "🍇", "name": "Struguri" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Fructele Extinse",
+          "objects": [
+            { "id": 1, "object": "🍎", "shadow": "🍎", "name": "Măr" },
+            { "id": 2, "object": "🍌", "shadow": "🍌", "name": "Banana" },
+            { "id": 3, "object": "🍊", "shadow": "🍊", "name": "Portocală" },
+            { "id": 4, "object": "🍇", "shadow": "🍇", "name": "Struguri" },
+            { "id": 5, "object": "🍓", "shadow": "🍓", "name": "Căpșune" },
+            { "id": 6, "object": "🥝", "shadow": "🥝", "name": "Kiwi" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Fructele",
+          "objects": [
+            { "id": 1, "object": "🍎", "shadow": "🍎", "name": "Măr" },
+            { "id": 2, "object": "🍌", "shadow": "🍌", "name": "Banana" },
+            { "id": 3, "object": "🍊", "shadow": "🍊", "name": "Portocală" },
+            { "id": 4, "object": "🍇", "shadow": "🍇", "name": "Struguri" },
+            { "id": 5, "object": "🍓", "shadow": "🍓", "name": "Căpșune" },
+            { "id": 6, "object": "🥝", "shadow": "🥝", "name": "Kiwi" },
+            { "id": 7, "object": "🍑", "shadow": "🍑", "name": "Piersică" },
+            { "id": 8, "object": "🍒", "shadow": "🍒", "name": "Cireșă" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Legumele",
+      "description": "Potrivește legumele cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Legumele de Bază",
+          "objects": [
+            { "id": 1, "object": "🥕", "shadow": "🥕", "name": "Morcov" },
+            { "id": 2, "object": "🥔", "shadow": "🥔", "name": "Cartof" },
+            { "id": 3, "object": "🍅", "shadow": "🍅", "name": "Roșie" },
+            { "id": 4, "object": "🥒", "shadow": "🥒", "name": "Castravete" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Legumele Extinse",
+          "objects": [
+            { "id": 1, "object": "🥕", "shadow": "🥕", "name": "Morcov" },
+            { "id": 2, "object": "🥔", "shadow": "🥔", "name": "Cartof" },
+            { "id": 3, "object": "🍅", "shadow": "🍅", "name": "Roșie" },
+            { "id": 4, "object": "🥒", "shadow": "🥒", "name": "Castravete" },
+            { "id": 5, "object": "🌽", "shadow": "🌽", "name": "Porumb" },
+            { "id": 6, "object": "🥬", "shadow": "🥬", "name": "Varză" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Legumele",
+          "objects": [
+            { "id": 1, "object": "🥕", "shadow": "🥕", "name": "Morcov" },
+            { "id": 2, "object": "🥔", "shadow": "🥔", "name": "Cartof" },
+            { "id": 3, "object": "🍅", "shadow": "🍅", "name": "Roșie" },
+            { "id": 4, "object": "🥒", "shadow": "🥒", "name": "Castravete" },
+            { "id": 5, "object": "🌽", "shadow": "🌽", "name": "Porumb" },
+            { "id": 6, "object": "🥬", "shadow": "🥬", "name": "Varză" },
+            { "id": 7, "object": "🥦", "shadow": "🥦", "name": "Broccoli" },
+            { "id": 8, "object": "🧅", "shadow": "🧅", "name": "Ceapă" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Jucăriile",
+      "description": "Potrivește jucăriile cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Jucăriile de Bază",
+          "objects": [
+            { "id": 1, "object": "🧸", "shadow": "🧸", "name": "Ursuleț" },
+            { "id": 2, "object": "🎈", "shadow": "🎈", "name": "Balon" },
+            { "id": 3, "object": "🎯", "shadow": "🎯", "name": "Țintă" },
+            { "id": 4, "object": "🧩", "shadow": "🧩", "name": "Puzzle" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Jucăriile Extinse",
+          "objects": [
+            { "id": 1, "object": "🧸", "shadow": "🧸", "name": "Ursuleț" },
+            { "id": 2, "object": "🎈", "shadow": "🎈", "name": "Balon" },
+            { "id": 3, "object": "🎯", "shadow": "🎯", "name": "Țintă" },
+            { "id": 4, "object": "🧩", "shadow": "🧩", "name": "Puzzle" },
+            { "id": 5, "object": "🎪", "shadow": "🎪", "name": "Circ" },
+            { "id": 6, "object": "🎨", "shadow": "🎨", "name": "Paletă" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Jucăriile",
+          "objects": [
+            { "id": 1, "object": "🧸", "shadow": "🧸", "name": "Ursuleț" },
+            { "id": 2, "object": "🎈", "shadow": "🎈", "name": "Balon" },
+            { "id": 3, "object": "🎯", "shadow": "🎯", "name": "Țintă" },
+            { "id": 4, "object": "🧩", "shadow": "🧩", "name": "Puzzle" },
+            { "id": 5, "object": "🎪", "shadow": "🎪", "name": "Circ" },
+            { "id": 6, "object": "🎨", "shadow": "🎨", "name": "Paletă" },
+            { "id": 7, "object": "🎮", "shadow": "🎮", "name": "Joystick" },
+            { "id": 8, "object": "🎲", "shadow": "🎲", "name": "Zar" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Instrumentele Muzicale",
+      "description": "Potrivește instrumentele cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Instrumentele de Bază",
+          "objects": [
+            { "id": 1, "object": "🎹", "shadow": "🎹", "name": "Pian" },
+            { "id": 2, "object": "🎸", "shadow": "🎸", "name": "Chitară" },
+            { "id": 3, "object": "🥁", "shadow": "🥁", "name": "Tobe" },
+            { "id": 4, "object": "🎺", "shadow": "🎺", "name": "Trompetă" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Instrumentele Extinse",
+          "objects": [
+            { "id": 1, "object": "🎹", "shadow": "🎹", "name": "Pian" },
+            { "id": 2, "object": "🎸", "shadow": "🎸", "name": "Chitară" },
+            { "id": 3, "object": "🥁", "shadow": "🥁", "name": "Tobe" },
+            { "id": 4, "object": "🎺", "shadow": "🎺", "name": "Trompetă" },
+            { "id": 5, "object": "🎻", "shadow": "🎻", "name": "Vioară" },
+            { "id": 6, "object": "🎵", "shadow": "🎵", "name": "Notă muzicală" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Instrumentele",
+          "objects": [
+            { "id": 1, "object": "🎹", "shadow": "🎹", "name": "Pian" },
+            { "id": 2, "object": "🎸", "shadow": "🎸", "name": "Chitară" },
+            { "id": 3, "object": "🥁", "shadow": "🥁", "name": "Tobe" },
+            { "id": 4, "object": "🎺", "shadow": "🎺", "name": "Trompetă" },
+            { "id": 5, "object": "🎻", "shadow": "🎻", "name": "Vioară" },
+            { "id": 6, "object": "🎵", "shadow": "🎵", "name": "Notă muzicală" },
+            { "id": 7, "object": "🎤", "shadow": "🎤", "name": "Microfon" },
+            { "id": 8, "object": "🎧", "shadow": "🎧", "name": "Căști" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Sporturile",
+      "description": "Potrivește sporturile cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Sporturile de Bază",
+          "objects": [
+            { "id": 1, "object": "⚽", "shadow": "⚽", "name": "Fotbal" },
+            { "id": 2, "object": "🏀", "shadow": "🏀", "name": "Baschet" },
+            { "id": 3, "object": "🎾", "shadow": "🎾", "name": "Tenis" },
+            { "id": 4, "object": "🏐", "shadow": "🏐", "name": "Volei" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Sporturile Extinse",
+          "objects": [
+            { "id": 1, "object": "⚽", "shadow": "⚽", "name": "Fotbal" },
+            { "id": 2, "object": "🏀", "shadow": "🏀", "name": "Baschet" },
+            { "id": 3, "object": "🎾", "shadow": "🎾", "name": "Tenis" },
+            { "id": 4, "object": "🏐", "shadow": "🏐", "name": "Volei" },
+            { "id": 5, "object": "🏈", "shadow": "🏈", "name": "Rugby" },
+            { "id": 6, "object": "🏓", "shadow": "🏓", "name": "Ping-pong" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Sporturile",
+          "objects": [
+            { "id": 1, "object": "⚽", "shadow": "⚽", "name": "Fotbal" },
+            { "id": 2, "object": "🏀", "shadow": "🏀", "name": "Baschet" },
+            { "id": 3, "object": "🎾", "shadow": "🎾", "name": "Tenis" },
+            { "id": 4, "object": "🏐", "shadow": "🏐", "name": "Volei" },
+            { "id": 5, "object": "🏈", "shadow": "🏈", "name": "Rugby" },
+            { "id": 6, "object": "🏓", "shadow": "🏓", "name": "Ping-pong" },
+            { "id": 7, "object": "🏸", "shadow": "🏸", "name": "Badminton" },
+            { "id": 8, "object": "🏏", "shadow": "🏏", "name": "Cricket" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Profesiile",
+      "description": "Potrivește profesia cu umbra ei",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Profesiile de Bază",
+          "objects": [
+            { "id": 1, "object": "👨‍⚕️", "shadow": "👨‍⚕️", "name": "Doctor" },
+            { "id": 2, "object": "👨‍🍳", "shadow": "👨‍🍳", "name": "Bucătar" },
+            { "id": 3, "object": "👨‍🚒", "shadow": "👨‍🚒", "name": "Pompier" },
+            { "id": 4, "object": "👨‍✈️", "shadow": "👨‍✈️", "name": "Pilot" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Profesiile Extinse",
+          "objects": [
+            { "id": 1, "object": "👨‍⚕️", "shadow": "👨‍⚕️", "name": "Doctor" },
+            { "id": 2, "object": "👨‍🍳", "shadow": "👨‍🍳", "name": "Bucătar" },
+            { "id": 3, "object": "👨‍🚒", "shadow": "👨‍🚒", "name": "Pompier" },
+            { "id": 4, "object": "👨‍✈️", "shadow": "👨‍✈️", "name": "Pilot" },
+            { "id": 5, "object": "👨‍🏫", "shadow": "👨‍🏫", "name": "Profesor" },
+            { "id": 6, "object": "👨‍🚀", "shadow": "👨‍🚀", "name": "Astronaut" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Profesiile",
+          "objects": [
+            { "id": 1, "object": "👨‍⚕️", "shadow": "👨‍⚕️", "name": "Doctor" },
+            { "id": 2, "object": "👨‍🍳", "shadow": "👨‍🍳", "name": "Bucătar" },
+            { "id": 3, "object": "👨‍🚒", "shadow": "👨‍🚒", "name": "Pompier" },
+            { "id": 4, "object": "👨‍✈️", "shadow": "👨‍✈️", "name": "Pilot" },
+            { "id": 5, "object": "👨‍🏫", "shadow": "👨‍🏫", "name": "Profesor" },
+            { "id": 6, "object": "👨‍🚀", "shadow": "👨‍🚀", "name": "Astronaut" },
+            { "id": 7, "object": "👨‍💼", "shadow": "👨‍💼", "name": "Manager" },
+            { "id": 8, "object": "👨‍🎨", "shadow": "👨‍🎨", "name": "Artist" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Anotimpurile",
+      "description": "Potrivește anotimpurile cu umbrele lor",
+      "background": "linear-gradient(135deg, #a78bfa 0%, #8b5cf6 100%)",
+      "levels": [
+        {
+          "level": 1,
+          "name": "Anotimpurile de Bază",
+          "objects": [
+            { "id": 1, "object": "🌸", "shadow": "🌸", "name": "Primăvara" },
+            { "id": 2, "object": "☀️", "shadow": "☀️", "name": "Vara" },
+            { "id": 3, "object": "🍂", "shadow": "🍂", "name": "Toamna" },
+            { "id": 4, "object": "❄️", "shadow": "❄️", "name": "Iarna" }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Anotimpurile Extinse",
+          "objects": [
+            { "id": 1, "object": "🌸", "shadow": "🌸", "name": "Primăvara" },
+            { "id": 2, "object": "☀️", "shadow": "☀️", "name": "Vara" },
+            { "id": 3, "object": "🍂", "shadow": "🍂", "name": "Toamna" },
+            { "id": 4, "object": "❄️", "shadow": "❄️", "name": "Iarna" },
+            { "id": 5, "object": "🌱", "shadow": "🌱", "name": "Planta" },
+            { "id": 6, "object": "🌺", "shadow": "🌺", "name": "Floare" }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toate Anotimpurile",
+          "objects": [
+            { "id": 1, "object": "🌸", "shadow": "🌸", "name": "Primăvara" },
+            { "id": 2, "object": "☀️", "shadow": "☀️", "name": "Vara" },
+            { "id": 3, "object": "🍂", "shadow": "🍂", "name": "Toamna" },
+            { "id": 4, "object": "❄️", "shadow": "❄️", "name": "Iarna" },
+            { "id": 5, "object": "🌱", "shadow": "🌱", "name": "Planta" },
+            { "id": 6, "object": "🌺", "shadow": "🌺", "name": "Floare" },
+            { "id": 7, "object": "🍁", "shadow": "🍁", "name": "Frunză de toamnă" },
+            { "id": 8, "object": "⛄", "shadow": "⛄", "name": "Om de zăpadă" }
+          ]
+        }
+      ]
+    }
+  ]
+}

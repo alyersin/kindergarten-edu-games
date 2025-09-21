@@ -1,0 +1,96 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Fructe și Legume",
+      "description": "Numără fructele și legumele",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #F0E68C 100%)",
+      "items": [
+        { "id": 1, "number": "1", "quantity": "🍎", "name": "un măr", "count": 1 },
+        { "id": 2, "number": "2", "quantity": "🍎🍎", "name": "două mere", "count": 2 },
+        { "id": 3, "number": "3", "quantity": "🍎🍎🍎", "name": "trei mere", "count": 3 },
+        { "id": 4, "number": "4", "quantity": "🍊🍊🍊🍊", "name": "patru portocale", "count": 4 },
+        { "id": 5, "number": "5", "quantity": "🍌🍌🍌🍌🍌", "name": "cinci banane", "count": 5 },
+        { "id": 6, "number": "6", "quantity": "🍇🍇🍇🍇🍇🍇", "name": "șase struguri", "count": 6 },
+        { "id": 7, "number": "7", "quantity": "🍓🍓🍓🍓🍓🍓🍓", "name": "șapte căpșuni", "count": 7 },
+        { "id": 8, "number": "8", "quantity": "🥕🥕🥕🥕🥕🥕🥕🥕", "name": "opt morcovi", "count": 8 },
+        { "id": 9, "number": "9", "quantity": "🍅🍅🍅🍅🍅🍅🍅🍅🍅", "name": "nouă roșii", "count": 9 },
+        { "id": 10, "number": "10", "quantity": "🥒🥒🥒🥒🥒🥒🥒🥒🥒🥒", "name": "zece castraveți", "count": 10 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Animale Fermă",
+      "description": "Numără animalele de la fermă",
+      "background": "linear-gradient(135deg, #87CEEB 0%, #98FB98 100%)",
+      "items": [
+        { "id": 1, "number": "1", "quantity": "🐄", "name": "o vacă", "count": 1 },
+        { "id": 2, "number": "2", "quantity": "🐷🐷", "name": "doi porci", "count": 2 },
+        { "id": 3, "number": "3", "quantity": "🐑🐑🐑", "name": "trei oi", "count": 3 },
+        { "id": 4, "number": "4", "quantity": "🐓🐓🐓🐓", "name": "patru cocoși", "count": 4 },
+        { "id": 5, "number": "5", "quantity": "🐐🐐🐐🐐🐐", "name": "cinci capre", "count": 5 },
+        { "id": 6, "number": "6", "quantity": "🐰🐰🐰🐰🐰🐰", "name": "șase iepuri", "count": 6 },
+        { "id": 7, "number": "7", "quantity": "🦆🦆🦆🦆🦆🦆🦆", "name": "șapte rațe", "count": 7 },
+        { "id": 8, "number": "8", "quantity": "🐕🐕🐕🐕🐕🐕🐕🐕", "name": "opt câini", "count": 8 },
+        { "id": 9, "number": "9", "quantity": "🐱🐱🐱🐱🐱🐱🐱🐱🐱", "name": "nouă pisici", "count": 9 },
+        { "id": 10, "number": "10", "quantity": "🐴🐴🐴🐴🐴🐴🐴🐴🐴🐴", "name": "zece cai", "count": 10 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Jucării și Obiecte",
+      "description": "Numără jucăriile și obiectele",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FFC0CB 100%)",
+      "items": [
+        { "id": 1, "number": "1", "quantity": "🎈", "name": "un balon", "count": 1 },
+        { "id": 2, "number": "2", "quantity": "🎾🎾", "name": "două mingi", "count": 2 },
+        { "id": 3, "number": "3", "quantity": "🧸🧸🧸", "name": "trei ursuleți", "count": 3 },
+        { "id": 4, "number": "4", "quantity": "🚗🚗🚗🚗", "name": "patru mașini", "count": 4 },
+        { "id": 5, "number": "5", "quantity": "🎯🎯🎯🎯🎯", "name": "cinci ținte", "count": 5 },
+        { "id": 6, "number": "6", "quantity": "🎮🎮🎮🎮🎮🎮", "name": "șase jocuri", "count": 6 },
+        { "id": 7, "number": "7", "quantity": "🧩🧩🧩🧩🧩🧩🧩", "name": "șapte puzzle-uri", "count": 7 },
+        { "id": 8, "number": "8", "quantity": "🎨🎨🎨🎨🎨🎨🎨🎨", "name": "opt creioane", "count": 8 },
+        { "id": 9, "number": "9", "quantity": "📚📚📚📚📚📚📚📚📚", "name": "nouă cărți", "count": 9 },
+        { "id": 10, "number": "10", "quantity": "🎪🎪🎪🎪🎪🎪🎪🎪🎪🎪", "name": "zece circuri", "count": 10 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Natură și Flori",
+      "description": "Numără elementele din natură",
+      "background": "linear-gradient(135deg, #98FB98 0%, #90EE90 100%)",
+      "items": [
+        { "id": 1, "number": "1", "quantity": "🌺", "name": "o floare", "count": 1 },
+        { "id": 2, "number": "2", "quantity": "🌺🌺", "name": "două flori", "count": 2 },
+        { "id": 3, "number": "3", "quantity": "🌺🌺🌺", "name": "trei flori", "count": 3 },
+        { "id": 4, "number": "4", "quantity": "⭐⭐⭐⭐", "name": "patru stele", "count": 4 },
+        { "id": 5, "number": "5", "quantity": "⭐⭐⭐⭐⭐", "name": "cinci stele", "count": 5 },
+        { "id": 6, "number": "6", "quantity": "🌙🌙🌙🌙🌙🌙", "name": "șase luni", "count": 6 },
+        { "id": 7, "number": "7", "quantity": "☀️☀️☀️☀️☀️☀️☀️", "name": "șapte soare", "count": 7 },
+        { "id": 8, "number": "8", "quantity": "🌧️🌧️🌧️🌧️🌧️🌧️🌧️🌧️", "name": "opt ploi", "count": 8 },
+        { "id": 9, "number": "9", "quantity": "❄️❄️❄️❄️❄️❄️❄️❄️❄️", "name": "nouă zăpadă", "count": 9 },
+        { "id": 10, "number": "10", "quantity": "🌈🌈🌈🌈🌈🌈🌈🌈🌈🌈", "name": "zece curcubeie", "count": 10 }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Animale Sălbatice",
+      "description": "Numără animalele sălbatice",
+      "background": "linear-gradient(135deg, #F0E68C 0%, #DDA0DD 100%)",
+      "items": [
+        { "id": 1, "number": "1", "quantity": "🦁", "name": "un leu", "count": 1 },
+        { "id": 2, "number": "2", "quantity": "🐘🐘", "name": "doi elefanți", "count": 2 },
+        { "id": 3, "number": "3", "quantity": "🦒🦒🦒", "name": "trei girafe", "count": 3 },
+        { "id": 4, "number": "4", "quantity": "🐆🐆🐆🐆", "name": "patru leoparzi", "count": 4 },
+        { "id": 5, "number": "5", "quantity": "🦓🦓🦓🦓🦓", "name": "cinci zebre", "count": 5 },
+        { "id": 6, "number": "6", "quantity": "🐻🐻🐻🐻🐻🐻", "name": "șase urși", "count": 6 },
+        { "id": 7, "number": "7", "quantity": "🐨🐨🐨🐨🐨🐨🐨", "name": "șapte koala", "count": 7 },
+        { "id": 8, "number": "8", "quantity": "🦊🦊🦊🦊🦊🦊🦊🦊", "name": "opt vulpi", "count": 8 },
+        { "id": 9, "number": "9", "quantity": "🐼🐼🐼🐼🐼🐼🐼🐼🐼", "name": "nouă panda", "count": 9 },
+        { "id": 10, "number": "10", "quantity": "🦋🦋🦋🦋🦋🦋🦋🦋🦋🦋", "name": "zece fluturi", "count": 10 }
+      ]
+    }
+  ]
+}
+
+

@@ -1,0 +1,116 @@
+{
+  "puzzles": [
+    {
+      "id": 1,
+      "name": "Casa cu Grădină",
+      "image": "🏡",
+      "background": "linear-gradient(135deg, #87CEEB 0%, #98FB98 50%, #F0E68C 100%)",
+      "fullImage": [["🏠", "🌳", "🌻", "🦋"], ["🌹", "🐝", "🌿", "🦜"], ["🌱", "🍄", "🌺", "🦋"]],
+      "pieces": [
+        { "id": 1, "emoji": "🏠", "position": { "x": 0, "y": 0 }, "correctPosition": { "x": 0, "y": 0 } },
+        { "id": 2, "emoji": "🌳", "position": { "x": 1, "y": 0 }, "correctPosition": { "x": 1, "y": 0 } },
+        { "id": 3, "emoji": "🌻", "position": { "x": 2, "y": 0 }, "correctPosition": { "x": 2, "y": 0 } },
+        { "id": 4, "emoji": "🦋", "position": { "x": 3, "y": 0 }, "correctPosition": { "x": 3, "y": 0 } },
+        { "id": 5, "emoji": "🌹", "position": { "x": 0, "y": 1 }, "correctPosition": { "x": 0, "y": 1 } },
+        { "id": 6, "emoji": "🐝", "position": { "x": 1, "y": 1 }, "correctPosition": { "x": 1, "y": 1 } },
+        { "id": 7, "emoji": "🌿", "position": { "x": 2, "y": 1 }, "correctPosition": { "x": 2, "y": 1 } },
+        { "id": 8, "emoji": "🦜", "position": { "x": 3, "y": 1 }, "correctPosition": { "x": 3, "y": 1 } },
+        { "id": 9, "emoji": "🌱", "position": { "x": 0, "y": 2 }, "correctPosition": { "x": 0, "y": 2 } },
+        { "id": 10, "emoji": "🍄", "position": { "x": 1, "y": 2 }, "correctPosition": { "x": 1, "y": 2 } },
+        { "id": 11, "emoji": "🌺", "position": { "x": 2, "y": 2 }, "correctPosition": { "x": 2, "y": 2 } },
+        { "id": 12, "emoji": "🦋", "position": { "x": 3, "y": 2 }, "correctPosition": { "x": 3, "y": 2 } }
+      ],
+      "gridSize": 4
+    },
+    {
+      "id": 2,
+      "name": "Oceanul Submarin",
+      "image": "🐠",
+      "background": "linear-gradient(135deg, #006994 0%, #4A90E2 50%, #87CEEB 100%)",
+      "fullImage": [["🐠", "🐙", "🦈", "🐚"], ["🦀", "🐡", "🌊", "🐟"], ["🦑", "🐠", "🪸", "🐚"]],
+      "pieces": [
+        { "id": 1, "emoji": "🐠", "position": { "x": 0, "y": 0 }, "correctPosition": { "x": 0, "y": 0 } },
+        { "id": 2, "emoji": "🐙", "position": { "x": 1, "y": 0 }, "correctPosition": { "x": 1, "y": 0 } },
+        { "id": 3, "emoji": "🦈", "position": { "x": 2, "y": 0 }, "correctPosition": { "x": 2, "y": 0 } },
+        { "id": 4, "emoji": "🐚", "position": { "x": 3, "y": 0 }, "correctPosition": { "x": 3, "y": 0 } },
+        { "id": 5, "emoji": "🦀", "position": { "x": 0, "y": 1 }, "correctPosition": { "x": 0, "y": 1 } },
+        { "id": 6, "emoji": "🐡", "position": { "x": 1, "y": 1 }, "correctPosition": { "x": 1, "y": 1 } },
+        { "id": 7, "emoji": "🌊", "position": { "x": 2, "y": 1 }, "correctPosition": { "x": 2, "y": 1 } },
+        { "id": 8, "emoji": "🐟", "position": { "x": 3, "y": 1 }, "correctPosition": { "x": 3, "y": 1 } },
+        { "id": 9, "emoji": "🦑", "position": { "x": 0, "y": 2 }, "correctPosition": { "x": 0, "y": 2 } },
+        { "id": 10, "emoji": "🐠", "position": { "x": 1, "y": 2 }, "correctPosition": { "x": 1, "y": 2 } },
+        { "id": 11, "emoji": "🪸", "position": { "x": 2, "y": 2 }, "correctPosition": { "x": 2, "y": 2 } },
+        { "id": 12, "emoji": "🐚", "position": { "x": 3, "y": 2 }, "correctPosition": { "x": 3, "y": 2 } }
+      ],
+      "gridSize": 4
+    },
+    {
+      "id": 3,
+      "name": "Safari African",
+      "image": "🦁",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #F0E68C 50%, #98FB98 100%)",
+      "fullImage": [["🦁", "🐘", "🦒", "🐆"], ["🦓", "🐃", "🦏", "🐒"], ["🌴", "🌿", "☀️", "🌾"]],
+      "pieces": [
+        { "id": 1, "emoji": "🦁", "position": { "x": 0, "y": 0 }, "correctPosition": { "x": 0, "y": 0 } },
+        { "id": 2, "emoji": "🐘", "position": { "x": 1, "y": 0 }, "correctPosition": { "x": 1, "y": 0 } },
+        { "id": 3, "emoji": "🦒", "position": { "x": 2, "y": 0 }, "correctPosition": { "x": 2, "y": 0 } },
+        { "id": 4, "emoji": "🐆", "position": { "x": 3, "y": 0 }, "correctPosition": { "x": 3, "y": 0 } },
+        { "id": 5, "emoji": "🦓", "position": { "x": 0, "y": 1 }, "correctPosition": { "x": 0, "y": 1 } },
+        { "id": 6, "emoji": "🐃", "position": { "x": 1, "y": 1 }, "correctPosition": { "x": 1, "y": 1 } },
+        { "id": 7, "emoji": "🦏", "position": { "x": 2, "y": 1 }, "correctPosition": { "x": 2, "y": 1 } },
+        { "id": 8, "emoji": "🐒", "position": { "x": 3, "y": 1 }, "correctPosition": { "x": 3, "y": 1 } },
+        { "id": 9, "emoji": "🌴", "position": { "x": 0, "y": 2 }, "correctPosition": { "x": 0, "y": 2 } },
+        { "id": 10, "emoji": "🌿", "position": { "x": 1, "y": 2 }, "correctPosition": { "x": 1, "y": 2 } },
+        { "id": 11, "emoji": "☀️", "position": { "x": 2, "y": 2 }, "correctPosition": { "x": 2, "y": 2 } },
+        { "id": 12, "emoji": "🌾", "position": { "x": 3, "y": 2 }, "correctPosition": { "x": 3, "y": 2 } }
+      ],
+      "gridSize": 4
+    },
+    {
+      "id": 4,
+      "name": "Castelul Prințesei",
+      "image": "🏰",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FFC0CB 50%, #FFE4E1 100%)",
+      "fullImage": [["🏰", "👑", "🦄", "✨"], ["🌹", "🦋", "💎", "🌟"], ["🦄", "🌺", "💫", "👑"]],
+      "pieces": [
+        { "id": 1, "emoji": "🏰", "position": { "x": 0, "y": 0 }, "correctPosition": { "x": 0, "y": 0 } },
+        { "id": 2, "emoji": "👑", "position": { "x": 1, "y": 0 }, "correctPosition": { "x": 1, "y": 0 } },
+        { "id": 3, "emoji": "🦄", "position": { "x": 2, "y": 0 }, "correctPosition": { "x": 2, "y": 0 } },
+        { "id": 4, "emoji": "✨", "position": { "x": 3, "y": 0 }, "correctPosition": { "x": 3, "y": 0 } },
+        { "id": 5, "emoji": "🌹", "position": { "x": 0, "y": 1 }, "correctPosition": { "x": 0, "y": 1 } },
+        { "id": 6, "emoji": "🦋", "position": { "x": 1, "y": 1 }, "correctPosition": { "x": 1, "y": 1 } },
+        { "id": 7, "emoji": "💎", "position": { "x": 2, "y": 1 }, "correctPosition": { "x": 2, "y": 1 } },
+        { "id": 8, "emoji": "🌟", "position": { "x": 3, "y": 1 }, "correctPosition": { "x": 3, "y": 1 } },
+        { "id": 9, "emoji": "🦄", "position": { "x": 0, "y": 2 }, "correctPosition": { "x": 0, "y": 2 } },
+        { "id": 10, "emoji": "🌺", "position": { "x": 1, "y": 2 }, "correctPosition": { "x": 1, "y": 2 } },
+        { "id": 11, "emoji": "💫", "position": { "x": 2, "y": 2 }, "correctPosition": { "x": 2, "y": 2 } },
+        { "id": 12, "emoji": "👑", "position": { "x": 3, "y": 2 }, "correctPosition": { "x": 3, "y": 2 } }
+      ],
+      "gridSize": 4
+    },
+    {
+      "id": 5,
+      "name": "Spațiul Cosmic",
+      "image": "🚀",
+      "background": "linear-gradient(135deg, #000428 0%, #004e92 50%, #87CEEB 100%)",
+      "fullImage": [["🚀", "🪐", "⭐", "🌙"], ["👨‍🚀", "🛸", "🌟", "☄️"], ["🪐", "⭐", "🌌", "🚀"]],
+      "pieces": [
+        { "id": 1, "emoji": "🚀", "position": { "x": 0, "y": 0 }, "correctPosition": { "x": 0, "y": 0 } },
+        { "id": 2, "emoji": "🪐", "position": { "x": 1, "y": 0 }, "correctPosition": { "x": 1, "y": 0 } },
+        { "id": 3, "emoji": "⭐", "position": { "x": 2, "y": 0 }, "correctPosition": { "x": 2, "y": 0 } },
+        { "id": 4, "emoji": "🌙", "position": { "x": 3, "y": 0 }, "correctPosition": { "x": 3, "y": 0 } },
+        { "id": 5, "emoji": "👨‍🚀", "position": { "x": 0, "y": 1 }, "correctPosition": { "x": 0, "y": 1 } },
+        { "id": 6, "emoji": "🛸", "position": { "x": 1, "y": 1 }, "correctPosition": { "x": 1, "y": 1 } },
+        { "id": 7, "emoji": "🌟", "position": { "x": 2, "y": 1 }, "correctPosition": { "x": 2, "y": 1 } },
+        { "id": 8, "emoji": "☄️", "position": { "x": 3, "y": 1 }, "correctPosition": { "x": 3, "y": 1 } },
+        { "id": 9, "emoji": "🪐", "position": { "x": 0, "y": 2 }, "correctPosition": { "x": 0, "y": 2 } },
+        { "id": 10, "emoji": "⭐", "position": { "x": 1, "y": 2 }, "correctPosition": { "x": 1, "y": 2 } },
+        { "id": 11, "emoji": "🌌", "position": { "x": 2, "y": 2 }, "correctPosition": { "x": 2, "y": 2 } },
+        { "id": 12, "emoji": "🚀", "position": { "x": 3, "y": 2 }, "correctPosition": { "x": 3, "y": 2 } }
+      ],
+      "gridSize": 4
+    }
+  ]
+}
+
+

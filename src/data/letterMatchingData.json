@@ -1,0 +1,360 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Literele de Bază",
+      "description": "Învață literele A, B, C, D cu obiecte simple",
+      "background": "linear-gradient(135deg, #87CEEB 0%, #98FB98 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "✈️", "name": "Avion" },
+        { "id": 2, "letter": "B", "object": "🎈", "name": "Balon" },
+        { "id": 3, "letter": "C", "object": "🏠", "name": "Casă" },
+        { "id": 4, "letter": "D", "object": "🐬", "name": "Delfin" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Literele E-H",
+      "description": "Învață literele E, F, G, H cu animale și obiecte",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #F0E68C 100%)",
+      "letters": [
+        { "id": 1, "letter": "E", "object": "🐘", "name": "Elefant" },
+        { "id": 2, "letter": "F", "object": "🌺", "name": "Floare" },
+        { "id": 3, "letter": "G", "object": "🦒", "name": "Girafă" },
+        { "id": 4, "letter": "H", "object": "🪕", "name": "Harfă" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Literele I-L",
+      "description": "Învață literele I, J, K, L cu jucării și animale",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FFC0CB 100%)",
+      "letters": [
+        { "id": 1, "letter": "I", "object": "🪡", "name": "Iglă" },
+        { "id": 2, "letter": "J", "object": "🧸", "name": "Jucărie" },
+        { "id": 3, "letter": "K", "object": "🥝", "name": "Kiwi" },
+        { "id": 4, "letter": "L", "object": "🦁", "name": "Leu" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Literele M-P",
+      "description": "Învață literele M, N, O, P cu fructe și animale",
+      "background": "linear-gradient(135deg, #DDA0DD 0%, #DA70D6 100%)",
+      "letters": [
+        { "id": 1, "letter": "M", "object": "🍎", "name": "Măr" },
+        { "id": 2, "letter": "N", "object": "🥜", "name": "Nucă" },
+        { "id": 3, "letter": "O", "object": "🐑", "name": "Oaie" },
+        { "id": 4, "letter": "P", "object": "🐧", "name": "Pinguin" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Literele Q-T",
+      "description": "Învață literele Q, R, S, T cu obiecte și animale",
+      "background": "linear-gradient(135deg, #F0E68C 0%, #DDA0DD 100%)",
+      "letters": [
+        { "id": 1, "letter": "Q", "object": "👑", "name": "Regina" },
+        { "id": 2, "letter": "R", "object": "🦆", "name": "Rață" },
+        { "id": 3, "letter": "S", "object": "☀️", "name": "Soare" },
+        { "id": 4, "letter": "T", "object": "🐅", "name": "Tigru" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Literele U-X",
+      "description": "Învață literele U, V, W, X cu vehicule și obiecte",
+      "background": "linear-gradient(135deg, #90EE90 0%, #32CD32 100%)",
+      "letters": [
+        { "id": 1, "letter": "U", "object": "☂️", "name": "Umbrelă" },
+        { "id": 2, "letter": "V", "object": "🚢", "name": "Vapor" },
+        { "id": 3, "letter": "W", "object": "🌊", "name": "Waves" },
+        { "id": 4, "letter": "X", "object": "❌", "name": "X" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Literele Y-Z",
+      "description": "Învață literele Y, Z cu obiecte finale",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #FFD700 100%)",
+      "letters": [
+        { "id": 1, "letter": "Y", "object": "🛥️", "name": "Yacht" },
+        { "id": 2, "letter": "Z", "object": "🦓", "name": "Zebră" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Fructele",
+      "description": "Învață literele cu fructe delicioase",
+      "background": "linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🍎", "name": "Măr" },
+        { "id": 2, "letter": "B", "object": "🍌", "name": "Banana" },
+        { "id": 3, "letter": "C", "object": "🍒", "name": "Cireșă" },
+        { "id": 4, "letter": "D", "object": "🎃", "name": "Dovleac" }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Animalele",
+      "description": "Învață literele cu animale prietenoase",
+      "background": "linear-gradient(135deg, #A8E6CF 0%, #88D8A3 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🦔", "name": "Arici" },
+        { "id": 2, "letter": "B", "object": "🦋", "name": "Fluture" },
+        { "id": 3, "letter": "C", "object": "🐱", "name": "Pisică" },
+        { "id": 4, "letter": "D", "object": "🐕", "name": "Câine" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Obiectele Casei",
+      "description": "Învață literele cu obiecte din casă",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FF69B4 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🚪", "name": "Armar" },
+        { "id": 2, "letter": "B", "object": "🛏️", "name": "Pat" },
+        { "id": 3, "letter": "C", "object": "🪟", "name": "Fereastră" },
+        { "id": 4, "letter": "D", "object": "🚪", "name": "Ușă" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Jucăriile",
+      "description": "Învață literele cu jucării colorate",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #FFD700 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "✈️", "name": "Avion" },
+        { "id": 2, "letter": "B", "object": "🎈", "name": "Balon" },
+        { "id": 3, "letter": "C", "object": "🎯", "name": "Țintă" },
+        { "id": 4, "letter": "D", "object": "🎲", "name": "Zar" }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Formele și Culorile",
+      "description": "Învață literele cu forme și culori",
+      "background": "linear-gradient(135deg, #E6E6FA 0%, #D8BFD8 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🔵", "name": "Albastru" },
+        { "id": 2, "letter": "B", "object": "🔵", "name": "Bleu" },
+        { "id": 3, "letter": "C", "object": "🟢", "name": "Cerc verde" },
+        { "id": 4, "letter": "D", "object": "🟡", "name": "Cerc galben" }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Instrumentele Muzicale",
+      "description": "Învață literele cu instrumente muzicale",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FF69B4 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🪗", "name": "Acordeon" },
+        { "id": 2, "letter": "B", "object": "🎺", "name": "Bugle" },
+        { "id": 3, "letter": "C", "object": "🎸", "name": "Chitară" },
+        { "id": 4, "letter": "D", "object": "🥁", "name": "Dobă" }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Vehiculele",
+      "description": "Învață literele cu vehicule",
+      "background": "linear-gradient(135deg, #87CEEB 0%, #98FB98 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "✈️", "name": "Avion" },
+        { "id": 2, "letter": "B", "object": "🚲", "name": "Bicicletă" },
+        { "id": 3, "letter": "C", "object": "🚚", "name": "Camion" },
+        { "id": 4, "letter": "D", "object": "🚌", "name": "Duba" }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Natura",
+      "description": "Învață literele cu elemente din natură",
+      "background": "linear-gradient(135deg, #90EE90 0%, #32CD32 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🌳", "name": "Arbore" },
+        { "id": 2, "letter": "B", "object": "🌿", "name": "Buruiană" },
+        { "id": 3, "letter": "C", "object": "🌳", "name": "Copac" },
+        { "id": 4, "letter": "D", "object": "🌊", "name": "Delta" }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Animalele Sălbatice",
+      "description": "Învață literele cu animale sălbatice",
+      "background": "linear-gradient(135deg, #FF8C00 0%, #FF4500 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🦅", "name": "Acvilă" },
+        { "id": 2, "letter": "B", "object": "🐻", "name": "Urs" },
+        { "id": 3, "letter": "C", "object": "🐆", "name": "Leopard" },
+        { "id": 4, "letter": "D", "object": "🦌", "name": "Cerb" }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Mâncarea",
+      "description": "Învață literele cu mâncare delicioasă",
+      "background": "linear-gradient(135deg, #FFD700 0%, #FFA500 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🥑", "name": "Avocado" },
+        { "id": 2, "letter": "B", "object": "🥖", "name": "Pâine" },
+        { "id": 3, "letter": "C", "object": "🧀", "name": "Caș" },
+        { "id": 4, "letter": "D", "object": "🍩", "name": "Gogoșă" }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Culorile",
+      "description": "Învață literele cu culori frumoase",
+      "background": "linear-gradient(135deg, #FF69B4 0%, #FF1493 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🔵", "name": "Albastru" },
+        { "id": 2, "letter": "B", "object": "🔵", "name": "Bleu" },
+        { "id": 3, "letter": "C", "object": "🟢", "name": "Cerc verde" },
+        { "id": 4, "letter": "D", "object": "🟡", "name": "Cerc galben" }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Obiectele Zilnice",
+      "description": "Învață literele cu obiecte din viața de zi cu zi",
+      "background": "linear-gradient(135deg, #20B2AA 0%, #008B8B 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "📱", "name": "Telefon" },
+        { "id": 2, "letter": "B", "object": "📚", "name": "Carte" },
+        { "id": 3, "letter": "C", "object": "☕", "name": "Cafea" },
+        { "id": 4, "letter": "D", "object": "💻", "name": "Computer" }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Sporturile",
+      "description": "Învață literele cu sporturi populare",
+      "background": "linear-gradient(135deg, #32CD32 0%, #228B22 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🏊", "name": "Înot" },
+        { "id": 2, "letter": "B", "object": "🏀", "name": "Baschet" },
+        { "id": 3, "letter": "C", "object": "🏃", "name": "Alergare" },
+        { "id": 4, "letter": "D", "object": "🏊", "name": "Înot" }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Literele E-H (Varianta 2)",
+      "description": "Învață literele E, F, G, H cu obiecte noi",
+      "background": "linear-gradient(135deg, #9370DB 0%, #8A2BE2 100%)",
+      "letters": [
+        { "id": 1, "letter": "E", "object": "🍳", "name": "Ou" },
+        { "id": 2, "letter": "F", "object": "🔥", "name": "Foc" },
+        { "id": 3, "letter": "G", "object": "🎮", "name": "Joc" },
+        { "id": 4, "letter": "H", "object": "🏠", "name": "House" }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Literele I-L (Varianta 2)",
+      "description": "Învață literele I, J, K, L cu obiecte noi",
+      "background": "linear-gradient(135deg, #FF6347 0%, #FF4500 100%)",
+      "letters": [
+        { "id": 1, "letter": "I", "object": "🧊", "name": "Gheață" },
+        { "id": 2, "letter": "J", "object": "🦒", "name": "Girafă" },
+        { "id": 3, "letter": "K", "object": "🪁", "name": "Zmeu" },
+        { "id": 4, "letter": "L", "object": "🦁", "name": "Leu" }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Literele M-P (Varianta 2)",
+      "description": "Învață literele M, N, O, P cu obiecte noi",
+      "background": "linear-gradient(135deg, #FF1493 0%, #DC143C 100%)",
+      "letters": [
+        { "id": 1, "letter": "M", "object": "🌙", "name": "Lună" },
+        { "id": 2, "letter": "N", "object": "🌙", "name": "Lună" },
+        { "id": 3, "letter": "O", "object": "🦉", "name": "Bufniță" },
+        { "id": 4, "letter": "P", "object": "🐧", "name": "Pinguin" }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Literele Q-T (Varianta 2)",
+      "description": "Învață literele Q, R, S, T cu obiecte noi",
+      "background": "linear-gradient(135deg, #00CED1 0%, #008B8B 100%)",
+      "letters": [
+        { "id": 1, "letter": "Q", "object": "👑", "name": "Regina" },
+        { "id": 2, "letter": "R", "object": "🌈", "name": "Curcubeu" },
+        { "id": 3, "letter": "S", "object": "☀️", "name": "Soare" },
+        { "id": 4, "letter": "T", "object": "🌳", "name": "Copac" }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Literele U-X (Varianta 2)",
+      "description": "Învață literele U, V, W, X cu obiecte noi",
+      "background": "linear-gradient(135deg, #FFD700 0%, #FFA500 100%)",
+      "letters": [
+        { "id": 1, "letter": "U", "object": "☂️", "name": "Umbrelă" },
+        { "id": 2, "letter": "V", "object": "🚗", "name": "Mașină" },
+        { "id": 3, "letter": "W", "object": "🌊", "name": "Waves" },
+        { "id": 4, "letter": "X", "object": "❌", "name": "X" }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Literele Y-Z (Varianta 2)",
+      "description": "Învață literele Y, Z cu obiecte noi",
+      "background": "linear-gradient(135deg, #98FB98 0%, #90EE90 100%)",
+      "letters": [
+        { "id": 1, "letter": "Y", "object": "🛥️", "name": "Yacht" },
+        { "id": 2, "letter": "Z", "object": "🦓", "name": "Zebră" }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Fructele (Varianta 2)",
+      "description": "Învață literele cu fructe noi",
+      "background": "linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🍎", "name": "Măr" },
+        { "id": 2, "letter": "B", "object": "🍌", "name": "Banana" },
+        { "id": 3, "letter": "C", "object": "🍒", "name": "Cireșă" },
+        { "id": 4, "letter": "D", "object": "🎃", "name": "Dovleac" }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Animalele (Varianta 2)",
+      "description": "Învață literele cu animale noi",
+      "background": "linear-gradient(135deg, #A8E6CF 0%, #88D8A3 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🦔", "name": "Arici" },
+        { "id": 2, "letter": "B", "object": "🦋", "name": "Fluture" },
+        { "id": 3, "letter": "C", "object": "🐱", "name": "Pisică" },
+        { "id": 4, "letter": "D", "object": "🐕", "name": "Câine" }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Obiectele Casei (Varianta 2)",
+      "description": "Învață literele cu obiecte noi din casă",
+      "background": "linear-gradient(135deg, #FFB6C1 0%, #FF69B4 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "🚪", "name": "Armar" },
+        { "id": 2, "letter": "B", "object": "🛏️", "name": "Pat" },
+        { "id": 3, "letter": "C", "object": "🪟", "name": "Fereastră" },
+        { "id": 4, "letter": "D", "object": "🚪", "name": "Ușă" }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Jucăriile (Varianta 2)",
+      "description": "Învață literele cu jucării noi",
+      "background": "linear-gradient(135deg, #FFE4B5 0%, #FFD700 100%)",
+      "letters": [
+        { "id": 1, "letter": "A", "object": "✈️", "name": "Avion" },
+        { "id": 2, "letter": "B", "object": "🎈", "name": "Balon" },
+        { "id": 3, "letter": "C", "object": "🎯", "name": "Țintă" },
+        { "id": 4, "letter": "D", "object": "🎲", "name": "Zar" }
+      ]
+    }
+  ]
+}
