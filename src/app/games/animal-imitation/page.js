@@ -258,7 +258,7 @@ export default function AnimalImitation() {
                   <HStack spacing={4}>
                     <Text fontSize="2xl">1️⃣</Text>
                     <Text fontSize="lg">
-                      Apasă pe "Joacă Sunetul" pentru a auzi animalul
+                      Apasă pe &quot;Joacă Sunetul&quot; pentru a auzi animalul
                     </Text>
                   </HStack>
 
@@ -279,7 +279,7 @@ export default function AnimalImitation() {
                   <HStack spacing={4}>
                     <Text fontSize="2xl">4️⃣</Text>
                     <Text fontSize="lg">
-                      Apasă "Următorul Animal" când ai terminat
+                      Apasă &quot;Următorul Animal&quot; când ai terminat
                     </Text>
                   </HStack>
                 </VStack>

@@ -14,7 +14,7 @@ import {
   Icon,
   Image,
 } from "@chakra-ui/react";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { shuffleArray } from "../../../utils/array";
 import { useRouter } from "next/navigation";
 import { FaHome, FaRedo, FaPuzzlePiece } from "react-icons/fa";
@@ -43,16 +43,16 @@ export default function PuzzleGame() {
   const toast = useToast();
   const router = useRouter();
 
-  useEffect(() => {
-    initializeGame();
-  }, []);
-
-  const initializeGame = () => {
+  const initializeGame = useCallback(() => {
     setCurrentPuzzle(0);
     setScore(0);
     setGameCompleted(false);
     startPuzzle(0);
-  };
+  }, []);
+
+  useEffect(() => {
+    initializeGame();
+  }, [initializeGame]);
 
   const startPuzzle = (puzzleIndex) => {
     const selectedPuzzle = puzzleData[puzzleIndex];

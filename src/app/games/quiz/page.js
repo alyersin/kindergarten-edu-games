@@ -14,7 +14,7 @@ import {
   Icon,
   Center,
 } from "@chakra-ui/react";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import { FaHome, FaRedo } from "react-icons/fa";
 import { shuffleArray } from "../../../utils/array";
@@ -41,7 +41,7 @@ export default function Quiz() {
   const question = shuffledQuestions[currentQuestion];
 
   // Function to play animal sounds
-  const playAnimalSound = (soundName) => {
+  const playAnimalSound = useCallback((soundName) => {
     if (soundName) {
       try {
         // Create audio element and play sound
@@ -57,7 +57,7 @@ export default function Quiz() {
         playBeepSound(soundName);
       }
     }
-  };
+  }, []);
 
   // Fallback function to create simple beep sounds
   const playBeepSound = (soundName) => {
@@ -116,7 +116,7 @@ export default function Quiz() {
 
       return () => clearTimeout(timer);
     }
-  }, [currentQuestion, question]);
+  }, [currentQuestion, question, playAnimalSound]);
 
   // Initialize game on component mount
   useEffect(() => {
