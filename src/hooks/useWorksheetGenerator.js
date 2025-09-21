@@ -40,7 +40,7 @@ export const useWorksheetGenerator = () => {
         showNumbers: showNumbers,
       }));
     }
-  }, [showNumbers, worksheetType]);
+  }, [showNumbers, worksheetType, generatedWorksheet]);
 
   // Actualizează automat previzualizarea când se schimbă showVisualObjects
   useEffect(() => {
@@ -54,7 +54,7 @@ export const useWorksheetGenerator = () => {
         showVisualObjects: showVisualObjects,
       }));
     }
-  }, [showVisualObjects, worksheetType]);
+  }, [showVisualObjects, worksheetType, generatedWorksheet]);
 
   const generateAdditionProblems = () => {
     const problems = [];

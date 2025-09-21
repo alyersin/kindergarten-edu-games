@@ -111,7 +111,7 @@ export default function ShadowMatching() {
       setShadows(shuffledShadows);
       setCategoryCompleted(false);
     }
-  }, [selectedCategory, selectedLevel, shadowLevels]);
+  }, [selectedCategory, selectedLevel]);
 
   const handleObjectClick = (object) => {
     if (isMatched(object.id)) return;

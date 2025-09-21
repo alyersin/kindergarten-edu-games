@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { useToast } from "@chakra-ui/react";
 
 export const useMatchingGame = (levels, gameType = "matching") => {
@@ -146,7 +146,7 @@ export const useMatchingGame = (levels, gameType = "matching") => {
   };
 
   // Move to next level
-  const nextLevel = () => {
+  const nextLevel = useCallback(() => {
     if (currentLevel < levels.length - 1) {
       setCurrentLevel(currentLevel + 1);
       setMatches([]);
@@ -163,7 +163,7 @@ export const useMatchingGame = (levels, gameType = "matching") => {
         position: "top",
       });
     }
-  };
+  }, [currentLevel, levels.length, score, toast]);
 
   // Restart game
   const restartGame = () => {
@@ -178,7 +178,7 @@ export const useMatchingGame = (levels, gameType = "matching") => {
       }, 2000);
       return () => clearTimeout(timer);
     }
-  }, [levelCompleted, gameCompleted]);
+  }, [levelCompleted, gameCompleted, nextLevel]);
 
   return {
     // State

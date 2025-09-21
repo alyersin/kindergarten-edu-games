@@ -97,7 +97,7 @@ export default function WheelOfFortune() {
       setShowInfoMessage(true);
       setTimeout(() => setShowInfoMessage(false), 2000);
     }, 3000); // Match the CSS animation duration
-  }, [isSpinning, rotation, wheelItems, toast]);
+  }, [isSpinning, rotation, wheelItems]);
 
   const handleTargetClick = (targetItem) => {
     if (!selectedWheelItem || isMatched(targetItem.id)) return;

@@ -66,7 +66,7 @@ const useGameLogic = (levels, initialLevel = 0, customLevelIndex = null) => {
       setSelectedItem(null);
       setSelectedTarget(null);
     },
-    [matches.length, currentLevelData, toast]
+    [matches.length, currentLevelData]
   );
 
   const isMatched = useCallback((id) => matches.includes(id), [matches]);
