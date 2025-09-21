@@ -120,7 +120,7 @@ const WorksheetPreview = ({
           </Text>
           <Text fontSize="md" color="gray.500" textAlign="center">
             Alege tipul de fișă și setările în partea stângă, apoi apasă butonul
-            albastru "Generează Fișa"
+            albastru &quot;Generează Fișa&quot;
           </Text>
         </VStack>
       </Box>
